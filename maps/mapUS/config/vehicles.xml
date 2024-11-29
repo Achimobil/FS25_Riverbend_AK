@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<vehicles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/savegame_vehicles.xsd">
+    <vehicle tourId="tourTractor1" filename="data/vehicles/challenger/mt655/mt655.xml" uniqueId="vehicled58bd6c2d631bd41715e4b05577c88e1" age="24" farmId="1" propertyState="OWNED" operatingTime="293237" selectedObjectIndex="1" subSelectedObjectIndex="1" defaultFarmProperty="true">
+        <component index="1" position="-708.065 47.090 92.272" rotation="-180 0 180.00"/>
+        <component index="2" position="-708.056 47.814 90.373" rotation="-180 0 -180.00"/>
+        <attacherJoints comboDirection="-1">
+            <attachedImplement jointIndex="2" moveDown="false" attachedVehicleUniqueId="vehicle555d5e8cf2c8e4f54aeebedcb4a9014e" inputJointIndex="1"/>
+        </attacherJoints>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+        </washable>
+        <wearable damage="0.119">
+            <wearNode amount="0.520"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourCultivator" filename="data/vehicles/johnDeere/cultivator980/cultivator980.xml" uniqueId="vehicle555d5e8cf2c8e4f54aeebedcb4a9014e" age="21" farmId="1" propertyState="OWNED" operatingTime="238716" defaultFarmProperty="true">
+        <component index="1" position="-708.118 46.970 98.266" rotation="-180 0 180.00"/>
+        <component index="2" position="-709.432 47.407 99.234" rotation="-180 0 180.00"/>
+        <component index="3" position="-706.826 47.407 99.262" rotation="180 0 180.00"/>
+        <component index="4" position="-708.150 47.510 101.236" rotation="-180 0 180.00"/>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+        </washable>
+        <wearable damage="0.103">
+            <wearNode amount="0.512"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourSeeder"  filename="data/vehicles/greatPlains/seeder1500/seeder1500.xml" uniqueId="vehicle79c21548dffdab24529c36e24c35d328" age="21" farmId="1" propertyState="OWNED" operatingTime="257237" selectedObjectIndex="1" subSelectedObjectIndex="1" defaultFarmProperty="true">
+        <component index="1" position="-707.767 47.154 113.969" rotation="0 0 0"/>
+        <component index="2" position="-707.649 48.523 112.060" rotation="0 0 0"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="BKT_DEFAULT"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="vehicleType" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="BKT_DEFAULT"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="vehicleType" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="rimColor" id="1"/>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" />
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+        </washable>
+        <wearable damage="0.089">
+            <wearNode amount="0.492"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourTractor2" filename="data/vehicles/johnDeere/series3650/series3650.xml" uniqueId="vehicle840fd882892d9fd6b1ae5c51fa750c74" age="27" farmId="1" propertyState="OWNED" operatingTime="333383" selectedObjectIndex="1" subSelectedObjectIndex="1" defaultFarmProperty="true">
+        <component index="1" position="-720.875 47.044 103.480" rotation="0 -90 0"/>
+        <component index="2" position="-722.216 47.701 103.519" rotation="0 -90 0"/>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+        </washable>
+        <wearable damage="0.109">
+            <wearNode amount="0.530"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourCombine" filename="data/vehicles/masseyFerguson/mf8570/mf8570.xml" uniqueId="vehiclef901de4f85f1f6d257b9cfbcca216a89" age="22" farmId="1" propertyState="OWNED" operatingTime="309375" selectedObjectIndex="2" subSelectedObjectIndex="1" defaultFarmProperty="true">
+        <component index="1" position="-738.246 47.041 159.601" rotation="0 90.00 0.00"/>
+        <component index="2" position="-739.956 47.714 159.601" rotation="0 90.00 0.00"/>
+        <attacherJoints comboDirection="-1">
+            <attachedImplement jointIndex="2" moveDown="false" attachedVehicleUniqueId="vehicle3d252a6ac936e5506ee0443de3f39a00" inputJointIndex="1"/>
+        </attacherJoints>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+        </washable>
+        <wearable damage="0.114">
+            <wearNode amount="0.437"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourHeaderTrailer" filename="data/vehicles/masseyFerguson/mf8570Trailer/mf8570Trailer.xml" uniqueId="vehicle3d252a6ac936e5506ee0443de3f39a00" age="22" farmId="1" propertyState="OWNED" operatingTime="290805" defaultFarmProperty="true">
+        <component index="1" position="-744.680 47.025 159.160" rotation="0 90 0"/>
+        <attachable isDetachingBlocked="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+        </washable>
+        <wearable damage="0.094">
+            <wearNode amount="0.382"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourHeader" filename="data/vehicles/masseyFerguson/mf8570Header/mf8570Header.xml" uniqueId="vehicle8fd6ff8a3eaeb179f53c8ad8cffa230a" age="22" farmId="1" propertyState="OWNED" operatingTime="287709" selectedObjectIndex="1" subSelectedObjectIndex="1" defaultFarmProperty="true">
+        <component index="1" position="-746.116 48.109 159.823" rotation="-25 0 0"/>
+        <attachable isDetachingBlocked="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+        </washable>
+        <wearable damage="0.092">
+            <wearNode amount="0.440"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourTrailer" filename="data/vehicles/farmtech/edk650/edk650.xml" uniqueId="vehicle99fa2e72d2524f0d534eb68ea67bd63d" age="19" farmId="1" propertyState="OWNED" operatingTime="124525" selectedObjectIndex="1" subSelectedObjectIndex="1" defaultFarmProperty="true">
+        <component index="1" position="-760 47 129" rotation="-180 -90 180"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="3"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="trailer" id="2"/>
+        <boughtConfiguration name="designColor" id="1"/>
+        <boughtConfiguration name="dischargeable" id="1"/>
+        <boughtConfiguration name="dischargeable" id="2"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillVolume" id="3"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="wheel" id="DEFAULT_BKT_ridemaxFL693M"/>
+        <boughtConfiguration name="baseColor" id="1"/>
+        <configuration name="fillUnit" id="3"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="trailer" id="2"/>
+        <configuration name="designColor" id="1"/>
+        <configuration name="dischargeable" id="2"/>
+        <configuration name="fillVolume" id="3"/>
+        <configuration name="attacherJoint" id="1"/>
+        <configuration name="wheel" id="DEFAULT_BKT_ridemaxFL693M"/>
+        <configuration name="baseColor" id="1"/>
+        <washable>
+            <dirtNode amount="0.750000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+            <dirtNode amount="0.750000" wetness="0" snowScale="0"/>
+            <dirtNode amount="0.000000" wetness="0"/>
+        </washable>
+        <wearable damage="0.087">
+            <wearNode amount="0.510"/>
+        </wearable>
+    </vehicle>
+    <vehicle tourId="tourSeedsPallet" filename="data/objects/bigBag/seeds/bigBag_seeds.xml" uniqueId="vehicleb0359dde1ccf0114f2353e3cb9eeb2d4" age="0" farmId="1" propertyState="OWNED" operatingTime="0" selectedObjectIndex="1" subSelectedObjectIndex="1" defaultFarmProperty="true">
+        <component index="1" position="-704 47 122" rotation="0 0 0"/>
+        <fillUnit>
+            <unit index="1" fillType="SEEDS" fillLevel="1000.000000"/>
+        </fillUnit>
+    </vehicle>
+
+</vehicles>

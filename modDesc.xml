@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="90">
+    <author>User</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>My Mod Name</en>
+        <de>Mod Map US</de>
+    </title>
+    <description>
+        <en><![CDATA[My Mod Description]]></en>
+        <de><![CDATA[Dies ist die Beispiel Mod Map US.]]></de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <maps>
+        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/mission00.lua" configFilename="maps/mapUS/mapUS.xml" defaultVehiclesXMLFilename="maps/mapUS/config/vehicles.xml" defaultHandToolsXMLFilename="maps/mapUS/config/handTools.xml" defaultPlaceablesXMLFilename="maps/mapUS/config/placeables.xml" defaultItemsXMLFilename="maps/mapUS/config/items.xml">
+            <title>
+                <en>Mod Map US</en>
+                <de>Mod Map US</de>
+            </title>
+            <description>
+                <en>This is the sample mod map US.</en>
+                <de>Dies ist die Beispiel Mod Map US.</de>
+            </description>
+            <iconFilename>preview.png</iconFilename>
+        </map>
+    </maps>
+</modDesc>
