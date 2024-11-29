@@ -1,0 +1,1 @@
+"C:\Program Files\7-Zip\7z.exe" u -tzip "FS25_Riverbend_AK.zip" -x@FileDefinition.txt
