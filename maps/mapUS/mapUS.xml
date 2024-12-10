@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <map width="2048" height="2048" imageFilename="maps/mapUS/overview.png"  mapFieldColor="0.1500 0.1195 0.0953" mapGrassFieldColor="0.1470 0.1441 0.0823" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../shared/xml/schema/mission00.xsd">
     <filename>maps/mapUS/mapUS.i3d</filename>
-    <vertexBufferMemoryUsage>191216640</vertexBufferMemoryUsage>
-    <indexBufferMemoryUsage>45332224</indexBufferMemoryUsage>
-    <textureMemoryUsage>890830848</textureMemoryUsage>
 
     <culling xzOffset="100" />
     <densityMap revision="1" />
@@ -28,7 +25,7 @@
     <fields filename="$data/maps/mapUS/config/fields.xml" />
     <aiSystem filename="$data/maps/mapUS/config/aiSystem.xml" />
 
-    <animals filename="$dataS/character/animals.xml">
+    <animals filename="maps/mapUS/config/animals.xml">
         <names filename="$dataS/character/animalNames.xml" />
         <food filename="$dataS/character/animalFood.xml" />
     </animals>
