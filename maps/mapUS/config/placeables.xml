@@ -277,7 +277,10 @@
     <placeable isPreplaced="true" uniqueId="preplaced_ropeMakerUS_03f108844472ea85d30064fffcb9d4ef">
         <customImage filename="data/placeables/mapUS/ropemakerUS/mapIcon_ropeMakerUS.png"/>
     </placeable>
-    <placeable isPreplaced="true" uniqueId="preplaced_sawmillUS_437337621e9c6c506305c70d1344f267">
+    <!-- <placeable isPreplaced="true" uniqueId="preplaced_sawmillUS_437337621e9c6c506305c70d1344f267"> -->
+        <!-- <customImage filename="data/placeables/mapUS/sawmillUS/mapIcon_sawmillUS.png"/> -->
+    <!-- </placeable> -->
+    <placeable filename="$mapdir$/maps/mapUS/placeables/sawmillUS/sawmillUS.xml" position="286.25 42 513.375" rotation="0 -45 0" canBeDeletedOverwrite="false">
         <customImage filename="data/placeables/mapUS/sawmillUS/mapIcon_sawmillUS.png"/>
     </placeable>
     <placeable isPreplaced="true" uniqueId="preplaced_spinneryUS_a25f06045748bf7505845589ee4158bb">

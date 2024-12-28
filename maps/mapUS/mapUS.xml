@@ -11,7 +11,7 @@
     <navigationCollision revision="1" />
 
     <shop filename="$data/store/ui/shop.xml" />
-    <storeItems filename="$data/maps/mapUS/config/storeItems.xml" />
+    <storeItems filename="maps/mapUS/config/storeItems.xml" />
 
     <guidedTours>
         <guidedTour name="intro" filename="$data/maps/mapUS/guidedTour/guidedTour_intro.xml" />
