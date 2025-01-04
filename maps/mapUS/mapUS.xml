@@ -39,7 +39,7 @@
     <helpline filename="$dataS/helpLine.xml" />
     <gameplayHints filename="$dataS/gameplayHints.xml" />
 
-    <missions vehicleFilename="$dataS/missionVehicles.xml">
+    <missions vehicleFilename="maps/mapUS/config/missionVehicles.xml">
         <deadwoodMission treeType="DEADWOOD">
             <spots filename="$data/maps/mapUS/missions/deadwoodSpots.i3d" />
         </deadwoodMission>
