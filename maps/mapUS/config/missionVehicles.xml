@@ -1323,8 +1323,9 @@
             </vehicle>
         </group>
         <group size="medium" variant="SUGARBEET">
-            <vehicle filename="$data/vehicles/holmer/terraDosT540/terraDosT540.xml"/>
-            <vehicle filename="$data/vehicles/holmer/terraDosT540Header/terraDosT540Header.xml"/>
+            <vehicle filename="$data/vehicles/ropa/tiger6S/tiger6S.xml"/>
+            <vehicle filename="$data/vehicles/ropa/rrXL9/rrXL9.xml"/>
+            <vehicle filename="$data/vehicles/ropa/rrXLTrailer/rrXLTrailer.xml"/>
             <vehicle filename="$data/vehicles/valtra/sSeries/sSeries.xml">
                 <configuration name="fillUnit" id="1"/>
                 <configuration name="motor" id="6"/>
