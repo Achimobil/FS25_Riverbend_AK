@@ -510,44 +510,44 @@
             <object typeName="SUN" class="WeatherObject" weight="18">
                 <variation weight="1" minHours="6" maxHours="12" minTemperature="14" maxTemperature="18">
                     <clouds presetId="SUNNY_BLUE_SKY"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="4" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="6" maxHours="12" minTemperature="12" maxTemperature="17">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_1"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="8" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="8" maxHours="12" minTemperature="11" maxTemperature="16">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_2"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="10" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="8" maxHours="12" minTemperature="10" maxTemperature="15">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_3"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="13" cirrusSpeedFactor="0.80"/>
                 </variation>
             </object>
             <object typeName="CLOUDY" class="WeatherObject" weight="18">
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="11" maxTemperature="16">
                     <clouds presetId="CLOUDY_LIGHT"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="17" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="10" maxTemperature="15">
                     <clouds presetId="CLOUDY"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="21" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="9" maxTemperature="14">
                     <clouds presetId="CLOUDY_MEDIUM"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="24" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="8" maxTemperature="13">
                     <clouds presetId="CLOUDY_DENSE"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="28" cirrusSpeedFactor="0.80"/>
                 </variation>
             </object>
@@ -628,44 +628,44 @@
             <object typeName="SUN" class="WeatherObject" weight="20">
                 <variation weight="3" minHours="6" maxHours="12" minTemperature="24" maxTemperature="34">
                     <clouds presetId="SUNNY_BLUE_SKY"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="4" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="6" maxHours="12" minTemperature="20" maxTemperature="31">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_1"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="8" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="8" maxHours="12" minTemperature="19" maxTemperature="29">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_2"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="10" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="8" maxHours="12" minTemperature="19" maxTemperature="29">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_3"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="13" cirrusSpeedFactor="0.80"/>
                 </variation>
             </object>
             <object typeName="CLOUDY" class="WeatherObject" weight="16">
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="18" maxTemperature="27">
                     <clouds presetId="CLOUDY_LIGHT"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="17" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="17" maxTemperature="26">
                     <clouds presetId="CLOUDY"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="21" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="16" maxTemperature="25">
                     <clouds presetId="CLOUDY_MEDIUM"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="24" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="16" maxTemperature="25">
                     <clouds presetId="CLOUDY_DENSE"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="28" cirrusSpeedFactor="0.80"/>
                 </variation>
             </object>
@@ -746,44 +746,44 @@
             <object typeName="SUN" class="WeatherObject" weight="8">
                 <variation weight="1" minHours="6" maxHours="12" minTemperature="15" maxTemperature="25">
                     <clouds presetId="SUNNY_BLUE_SKY"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="4" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="6" maxHours="12" minTemperature="14" maxTemperature="24">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_1"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="8" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="8" maxHours="12" minTemperature="13" maxTemperature="23">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_2"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="10" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="8" maxHours="12" minTemperature="13" maxTemperature="23">
                     <clouds presetId="SUNNY_LIGHT_CLOUDS_3"/>
-                    <rain presetId="DUST"/>
+                    <!-- <rain presetId="DUST"/> -->
                     <wind speed="13" cirrusSpeedFactor="0.80"/>
                 </variation>
             </object>
             <object typeName="CLOUDY" class="WeatherObject" weight="10">
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="9" maxTemperature="20">
                     <clouds presetId="CLOUDY_LIGHT"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="17" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="8" maxTemperature="19">
                     <clouds presetId="CLOUDY"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="21" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="8" maxTemperature="20">
                     <clouds presetId="CLOUDY_MEDIUM"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="24" cirrusSpeedFactor="0.80"/>
                 </variation>
                 <variation weight="1" minHours="5" maxHours="10" minTemperature="7" maxTemperature="17">
                     <clouds presetId="CLOUDY_DENSE"/>
-                    <rain presetId="DUST_WINDY"/>
+                    <!-- <rain presetId="DUST_WINDY"/> -->
                     <wind speed="28" cirrusSpeedFactor="0.80"/>
                 </variation>
             </object>
