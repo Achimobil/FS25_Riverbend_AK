@@ -18,7 +18,7 @@
     </guidedTours>
 
     <sounds filename="maps/mapUS/sounds.xml" />
-    <environment filename="$data/maps/mapUS/config/environment.xml" />
+    <environment filename="maps/mapUS/config/environment.xml" />
     <weed filename="$data/maps/mapUS/config/weed.xml" />
     <fieldGround filename="$data/maps/mapUS/config/fieldGround.xml" />
     <farmlands filename="$data/maps/mapUS/config/farmlands.xml" />
