@@ -27,7 +27,7 @@
     </storeData>
 
     <base>
-        <filename>$data/placeables/mapUS/sawmillUS/sawmillUS.i3d</filename>
+        <filename>maps/mapUS/placeables/sawmillUS/sawmillUS.i3d</filename>
         <canBeRenamed>true</canBeRenamed>
         <canBeDeleted>false</canBeDeleted>
     </base>
