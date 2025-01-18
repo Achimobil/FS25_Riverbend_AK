@@ -80,13 +80,13 @@
                     <!-- <key ageMonth="0" value="20"/> -->
                     <!-- <key ageMonth="18" value="200"/> -->
                     <key ageMonth="0" value="100"/>
-                    <key ageMonth="18" value="200"/>
+                    <key ageMonth="18" value="400"/>
                 </manure>
                 <liquidManure>
                     <!-- <key ageMonth="0" value="40"/> -->
                     <!-- <key ageMonth="18" value="250"/> -->
                     <key ageMonth="0" value="80"/>
-                    <key ageMonth="18" value="300"/>
+                    <key ageMonth="18" value="600"/>
                 </liquidManure>
             </output>
         </subType>
@@ -167,13 +167,13 @@
                     <!-- <key ageMonth="0" value="20"/> -->
                     <!-- <key ageMonth="18" value="200"/> -->
                     <key ageMonth="0" value="100"/>
-                    <key ageMonth="18" value="200"/>
+                    <key ageMonth="18" value="400"/>
                 </manure>
                 <liquidManure>
                     <!-- <key ageMonth="0" value="40"/> -->
                     <!-- <key ageMonth="18" value="250"/> -->
                     <key ageMonth="0" value="80"/>
-                    <key ageMonth="18" value="300"/>
+                    <key ageMonth="18" value="600"/>
                 </liquidManure>
             </output>
         </subType>
