@@ -54,19 +54,19 @@
                     <!-- <key ageMonth="0" value="10"/> -->
                     <!-- <key ageMonth="18" value="95"/> -->
                     <key ageMonth="0" value="20"/>
-                    <key ageMonth="18" value="70"/>
+                    <key ageMonth="18" value="175"/>
                 </straw>
                 <water>
                     <!-- <key ageMonth="0" value="20"/> -->
                     <!-- <key ageMonth="18" value="140"/> -->
-                    <key ageMonth="0" value="136"/>
-                    <key ageMonth="18" value="272"/>
+                    <key ageMonth="0" value="340"/>
+                    <key ageMonth="18" value="680"/>
                 </water>
                 <food>
                     <!-- <key ageMonth="0" value="40"/> -->
                     <!-- <key ageMonth="18" value="350"/> -->
-                    <key ageMonth="0" value="120"/>
-                    <key ageMonth="18" value="900"/>
+                    <key ageMonth="0" value="300"/>
+                    <key ageMonth="18" value="2250"/>
                 </food>
             </input>
             <output>
@@ -74,19 +74,19 @@
                     <key ageMonth="0" value="0"/>
                     <key ageMonth="12" value="0"/>
                     <!-- <key ageMonth="12" value="150"/> -->
-                    <key ageMonth="12" value="400"/>
+                    <key ageMonth="12" value="1000"/>
                 </milk>
                 <manure>
                     <!-- <key ageMonth="0" value="20"/> -->
                     <!-- <key ageMonth="18" value="200"/> -->
                     <key ageMonth="0" value="100"/>
-                    <key ageMonth="18" value="400"/>
+                    <key ageMonth="18" value="500"/>
                 </manure>
                 <liquidManure>
                     <!-- <key ageMonth="0" value="40"/> -->
                     <!-- <key ageMonth="18" value="250"/> -->
                     <key ageMonth="0" value="80"/>
-                    <key ageMonth="18" value="600"/>
+                    <key ageMonth="18" value="750"/>
                 </liquidManure>
             </output>
         </subType>
@@ -141,19 +141,19 @@
                     <!-- <key ageMonth="0" value="10"/> -->
                     <!-- <key ageMonth="18" value="95"/> -->
                     <key ageMonth="0" value="20"/>
-                    <key ageMonth="18" value="70"/>
+                    <key ageMonth="18" value="175"/>
                 </straw>
                 <water>
                     <!-- <key ageMonth="0" value="20"/> -->
                     <!-- <key ageMonth="18" value="140"/> -->
-                    <key ageMonth="0" value="136"/>
-                    <key ageMonth="18" value="272"/>
+                    <key ageMonth="0" value="340"/>
+                    <key ageMonth="18" value="680"/>
                 </water>
                 <food>
                     <!-- <key ageMonth="0" value="40"/> -->
                     <!-- <key ageMonth="18" value="350"/> -->
-                    <key ageMonth="0" value="120"/>
-                    <key ageMonth="18" value="900"/>
+                    <key ageMonth="0" value="300"/>
+                    <key ageMonth="18" value="2250"/>
                 </food>
             </input>
             <output>
@@ -161,19 +161,19 @@
                     <key ageMonth="0" value="0"/>
                     <key ageMonth="12" value="0"/>
                     <!-- <key ageMonth="12" value="150"/> -->
-                    <key ageMonth="12" value="400"/>
+                    <key ageMonth="12" value="1000"/>
                 </milk>
                 <manure>
                     <!-- <key ageMonth="0" value="20"/> -->
                     <!-- <key ageMonth="18" value="200"/> -->
                     <key ageMonth="0" value="100"/>
-                    <key ageMonth="18" value="400"/>
+                    <key ageMonth="18" value="500"/>
                 </manure>
                 <liquidManure>
                     <!-- <key ageMonth="0" value="40"/> -->
                     <!-- <key ageMonth="18" value="250"/> -->
                     <key ageMonth="0" value="80"/>
-                    <key ageMonth="18" value="600"/>
+                    <key ageMonth="18" value="750"/>
                 </liquidManure>
             </output>
         </subType>
